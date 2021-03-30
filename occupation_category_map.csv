@@ -1,0 +1,599 @@
+﻿code,description,category
+0000,Armed forces occupations,A
+0100,Commissioned armed forces officers,A
+0110,Commissioned armed forces officers,A
+0200,Non-commissioned armed forces officers,A
+0210,Non-commissioned armed forces officers,A
+0300,"Armed forces occupations, other ranks",A
+0310,"Armed forces occupations, other ranks",A
+1000,Managers,A
+1100,"Chief executives, senior officials and legislators",A
+1110,Legislators and senior officials,A
+1111,Legislators,A
+1112,Senior government officials,A
+1113,Traditional chiefs and heads of village,A
+1114,Senior officials of special-interest organizations,A
+1120,Managing directors and chief executives,A
+1200,Administrative and commercial managers,A
+1210,Business services and administration managers,A
+1211,Finance managers,A
+1212,Human resource managers,A
+1213,Policy and planning managers,A
+1219,Business services and administration managers not elsewhere classified,A
+1220,"Sales, marketing and development managers",A
+1221,Sales and marketing managers,A
+1222,Advertising and public relations managers,A
+1223,Research and development managers,A
+1300,Production and specialised services managers,A
+1310,"Production managers in agriculture, forestry and fisheries",A
+1311,Agricultural and forestry production managers,A
+1312,Aquaculture and fisheries production managers,A
+1320,"Manufacturing, mining, construction, and distribution managers",A
+1321,Manufacturing managers,A
+1322,Mining managers,A
+1323,Construction managers,A
+1324,"Supply, distribution and related managers",A
+1330,Information and communications technology service managers,A
+1340,Professional services managers,A
+1341,Child care services managers,A
+1342,Health services managers,A
+1343,Aged care services managers,A
+1344,Social welfare managers,A
+1345,Education managers,A
+1346,Financial and insurance services branch managers,A
+1349,Professional services managers not elsewhere classified,A
+1400,"Hospitality, retail and other services managers",A
+1410,Hotel and restaurant managers,A
+1411,Hotel managers,A
+1412,Restaurant managers,A
+1420,Retail and wholesale trade managers,A
+1430,Other services managers,A
+1431,"Sports, recreation and cultural centre managers",A
+1439,Services managers not elsewhere classified,A
+2000,Professionals,B
+2100,Science and engineering professionals,B
+2110,Physical and earth science professionals,B
+2111,Physicists and astronomers,B
+2112,Meteorologists,B
+2113,Chemists,B
+2114,Geologists and geophysicists,B
+2120,"Mathematicians, actuaries and statisticians",B
+2130,Life science professionals,B
+2131,"Biologists, botanists, zoologists and related professionals",B
+2132,"Farming, forestry and fisheries advisers",B
+2133,Environmental protection professionals,B
+2140,Engineering professionals (excluding electrotechnology),B
+2141,Industrial and production engineers,B
+2142,Civil engineers,B
+2143,Environmental engineers,B
+2144,Mechanical engineers,B
+2145,Chemical engineers,B
+2146,"Mining engineers, metallurgists and related professionals",B
+2149,Engineering professionals not elsewhere classified,B
+2150,Electrotechnology engineers,B
+2151,Electrical engineers,B
+2152,Electronics engineers,B
+2153,Telecommunications engineers,B
+2160,"Architects, planners, surveyors and designers",B
+2161,Building architects,B
+2162,Landscape architects,B
+2163,Product and garment designers,B
+2164,Town and traffic planners,B
+2165,Cartographers and surveyors,B
+2166,Graphic and multimedia designers,B
+2200,Health professionals,B
+2210,Medical doctors,B
+2211,Generalist medical practitioners,B
+2212,Specialist medical practitioners,B
+2220,Nursing and midwifery professionals,B
+2221,Nursing professionals,B
+2222,Midwifery professionals,B
+2230,Traditional and complementary medicine professionals,B
+2240,Paramedical practitioners,B
+2250,Veterinarians,B
+2260,Other health professionals,B
+2261,Dentists,B
+2262,Pharmacists,B
+2263,Environmental and occupational health and hygiene professionals,B
+2264,Physiotherapists,B
+2265,Dieticians and nutritionists,B
+2266,Audiologists and speech therapists,B
+2267,Optometrists and ophthalmic opticians,B
+2269,Health professionals not elsewhere classified,B
+2300,Teaching professionals,B
+2310,University and higher education teachers,B
+2320,Vocational education teachers,B
+2330,Secondary education teachers,B
+2340,Primary school and early childhood teachers,B
+2341,Primary school teachers,B
+2342,Early childhood educators,B
+2350,Other teaching professionals,B
+2351,Education methods specialists,B
+2352,Special needs teachers,B
+2353,Other language teachers,B
+2354,Other music teachers,B
+2355,Other arts teachers,B
+2356,Information technology trainers,B
+2359,Teaching professionals not elsewhere classified,B
+2400,Business and administration professionals,B
+2410,Finance professionals,B
+2411,Accountants,B
+2412,Financial and investment advisers,B
+2413,Financial analysts,B
+2420,Administration professionals,B
+2421,Management and organization analysts,B
+2422,Policy administration professionals,B
+2423,Personnel and careers professionals,B
+2424,Training and staff development professionals,B
+2430,"Sales, marketing and public relations professionals",B
+2431,Advertising and marketing professionals,B
+2432,Public relations professionals,B
+2433,Technical and medical sales professionals (excluding ICT),B
+2434,Information and communications technology sales professionals,B
+2500,Information and communications technology professionals,B
+2510,Software and applications developers and analysts,B
+2511,Systems analysts,B
+2512,Software developers,B
+2513,Web and multimedia developers,B
+2514,Applications programmers,B
+2519,Software and applications developers and analysts not elsewhere classified,B
+2520,Database and network professionals,B
+2521,Database designers and administrators,B
+2522,Systems administrators,B
+2523,Computer network professionals,B
+2529,Database and network professionals not elsewhere classified,B
+2600,"Legal, social and cultural professionals",B
+2610,Legal professionals,B
+2611,Lawyers,B
+2612,Judges,B
+2619,Legal professionals not elsewhere classified,B
+2620,"Librarians, archivists and curators",B
+2621,Archivists and curators,B
+2622,Librarians and related information professionals,B
+2630,Social and religious professionals,B
+2631,Economists,B
+2632,"Sociologists, anthropologists and related professionals",B
+2633,"Philosophers, historians and political scientists",B
+2634,Psychologists,B
+2635,Social work and counselling professionals,B
+2636,Religious professionals,B
+2640,"Authors, journalists and linguists",B
+2641,Authors and related writers,B
+2642,Journalists,B
+2643,"Translators, interpreters and other linguists",B
+2650,Creative and performing artists,B
+2651,Visual artists,B
+2652,"Musicians, singers and composers",B
+2653,Dancers and choreographers,B
+2654,"Film, stage and related directors and producers",B
+2655,Actors,B
+2656,"Announcers on radio, television and other media",B
+2659,Creative and performing artists not elsewhere classified,B
+3000,Technicians and associate professionals,C
+3100,Science and engineering associate professionals,C
+3110,Physical and engineering science technicians,C
+3111,Chemical and physical science technicians,C
+3112,Civil engineering technicians,C
+3113,Electrical engineering technicians,C
+3114,Electronics engineering technicians,C
+3115,Mechanical engineering technicians,C
+3116,Chemical engineering technicians,C
+3117,Mining and metallurgical technicians,C
+3118,Draughtspersons,C
+3119,Physical and engineering science technicians not elsewhere classified,C
+3120,"Mining, manufacturing and construction supervisors",C
+3121,Mining supervisors,C
+3122,Manufacturing supervisors,C
+3123,Construction supervisors,C
+3130,Process control technicians,C
+3131,Power production plant operators,C
+3132,Incinerator and water treatment plant operators,C
+3133,Chemical processing plant controllers,C
+3134,Petroleum and natural gas refining plant operators,C
+3135,Metal production process controllers,C
+3139,Process control technicians not elsewhere classified,C
+3140,Life science technicians and related associate professionals,C
+3141,Life science technicians (excluding medical),C
+3142,Agricultural technicians,C
+3143,Forestry technicians,C
+3150,Ship and aircraft controllers and technicians,C
+3151,Ships engineers,C
+3152,Ships deck officers and pilots,C
+3153,Aircraft pilots and related associate professionals,C
+3154,Air traffic controllers,C
+3155,Air traffic safety electronics technicians,C
+3200,Health associate professionals,C
+3210,Medical and pharmaceutical technicians,C
+3211,Medical imaging and therapeutic equipment technicians,C
+3212,Medical and pathology Labouratory technicians,C
+3213,Pharmaceutical technicians and assistants,C
+3214,Medical and dental prosthetic technicians,C
+3220,Nursing and midwifery associate professionals,C
+3221,Nursing associate professionals,C
+3222,Midwifery associate professionals,C
+3230,Traditional and complementary medicine associate professionals,C
+3240,Veterinary technicians and assistants,C
+3250,Other health associate professionals,C
+3251,Dental assistants and therapists,C
+3252,Medical records and health information technicians,C
+3253,Community health workers,C
+3254,Dispensing opticians,C
+3255,Physiotherapy technicians and assistants,C
+3256,Medical assistants,C
+3257,Environmental and occupational health inspectors and associates,C
+3258,Ambulance workers,C
+3259,Health associate professionals not elsewhere classified,C
+3300,Business and administration associate professionals,C
+3310,Financial and mathematical associate professionals,C
+3311,Securities and finance dealers and brokers,C
+3312,Credit and loans officers,C
+3313,Accounting associate professionals,C
+3314,"Statistical, mathematical and related associate professionals",C
+3315,Valuers and loss assessors,C
+3320,Sales and purchasing agents and brokers,C
+3321,Insurance representatives,C
+3322,Commercial sales representatives,C
+3323,Buyers,C
+3324,Trade brokers,C
+3330,Business services agents,C
+3331,Clearing and forwarding agents,C
+3332,Conference and event planners,C
+3333,Employment agents and contractors,C
+3334,Real estate agents and property managers,C
+3339,Business services agents not elsewhere classified,C
+3340,Administrative and specialised secretaries,C
+3341,Office supervisors,C
+3342,Legal secretaries,C
+3343,Administrative and executive secretaries,C
+3344,Medical secretaries,C
+3350,Regulatory government associate professionals,C
+3351,Customs and border inspectors,C
+3352,Government tax and excise officials,C
+3353,Government social benefits officials,C
+3354,Government licensing officials,C
+3355,Police inspectors and detectives,C
+3359,Regulatory government associate professionals not elsewhere classified,C
+3400,"Legal, social, cultural and related associate professionals",C
+3410,"Legal, social and religious associate professionals",C
+3411,Police inspectors and detectives,C
+3412,Social work associate professionals,C
+3413,Religious associate professionals,C
+3420,Sports and fitness workers,C
+3421,Athletes and sports players,C
+3422,"Sports coaches, instructors and officials",C
+3423,Fitness and recreation instructors and program leaders,C
+3430,"Artistic, cultural and culinary associate professionals",C
+3431,Photographers,C
+3432,Interior designers and decorators,C
+3433,"Gallery, museum and library technicians",C
+3434,Chefs,C
+3435,Other artistic and cultural associate professionals,C
+3500,Information and communications technicians,C
+3510,Information and communications technology operations and user support technicians,C
+3511,Information and communications technology operations technicians,C
+3512,Information and communications technology user support technicians,C
+3513,Computer network and systems technicians,C
+3514,Web technicians,C
+3520,Telecommunications and broadcasting technicians,C
+3521,Broadcasting and audio-visual technicians,C
+3522,Telecommunications engineering technicians,C
+4000,Clerical support workers,D
+4100,General and keyboard clerks,D
+4110,General office clerks,D
+4120,Secretaries (general),D
+4130,Keyboard operators,D
+4131,Typists and word processing operators,D
+4132,Data entry clerks,D
+4200,Customer services clerks,D
+4210,"Tellers, money collectors and related clerks",D
+4211,Bank tellers and related clerks,D
+4212,"Bookmakers, croupiers and related gaming workers",D
+4213,Pawnbrokers and money-lenders,D
+4214,Debt-collectors and related workers,D
+4220,Client information workers,D
+4221,Travel consultants and clerks,D
+4222,Contact centre information clerks,D
+4223,Telephone switchboard operators,D
+4224,Hotel receptionists,D
+4225,Enquiry clerks,D
+4226,Receptionists (general),D
+4227,Survey and market research interviewers,D
+4229,Client information workers not elsewhere classified,D
+4300,Numerical and material recording clerks,D
+4310,Numerical clerks,D
+4311,Accounting and bookkeeping clerks,D
+4312,"Statistical, finance and insurance clerks",D
+4313,Payroll clerks,D
+4320,Material-recording and transport clerks,D
+4321,Stock clerks,D
+4322,Production clerks,D
+4323,Transport clerks,D
+4400,Other clerical support workers,D
+4410,Other clerical support workers,D
+4411,Library clerks,D
+4412,Mail carriers and sorting clerks,D
+4413,"Coding, proof-reading and related clerks",D
+4414,Scribes and related workers,D
+4415,Filing and copying clerks,D
+4416,Personnel clerks,D
+4419,Clerical support workers not elsewhere classified,D
+5000,Service and sales workers,E
+5100,Personal service workers,E
+5110,"Travel attendants, conductors and guides",E
+5111,Travel attendants and travel stewards,E
+5112,Transport conductors,E
+5113,Travel guides,E
+5120,Cooks,E
+5130,Waiters and bartenders,E
+5131,Waiters,E
+5132,Bartenders,E
+5140,"Hairdressers, beauticians and related workers",E
+5141,Hairdressers,E
+5142,Beauticians and related workers,E
+5150,Building and housekeeping supervisors,E
+5151,"Cleaning and housekeeping supervisors in offices, hotels and other establishments",E
+5152,Domestic housekeepers,E
+5153,Building caretakers,E
+5160,Other personal services workers,E
+5161,"Astrologers, fortune-tellers and related workers",E
+5162,Companions and valets,E
+5163,Undertakers and embalmers,E
+5164,Pet groomers and animal care workers,E
+5165,Driving instructors,E
+5169,Personal services workers not elsewhere classified,E
+5200,Sales workers,E
+5210,Street and market salespersons,E
+5211,Stall and market salespersons,E
+5212,Street food salespersons,E
+5220,Shop salespersons,E
+5221,Shop keepers,E
+5222,Shop supervisors,E
+5223,Shop sales assistants,E
+5230,Cashiers and ticket clerks,E
+5240,Other sales workers,E
+5241,Fashion and other models,E
+5242,Sales demonstrators,E
+5243,Door to door salespersons,E
+5244,Contact centre salespersons,E
+5245,Service station attendants,E
+5246,Food service counter attendants,E
+5249,Sales workers not elsewhere classified,E
+5300,Personal care workers,E
+5310,Child care workers and teachers aides,E
+5311,Child care workers,E
+5312,Teachers aides,E
+5320,Personal care workers in health services,E
+5321,Health care assistants,E
+5322,Home-based personal care workers,E
+5329,Personal care workers in health services not elsewhere classified,E
+5400,Protective services workers,E
+5410,Protective services workers,E
+5411,Fire-fighters,E
+5412,Police officers,E
+5413,Prison guards,E
+5414,Security guards,E
+5419,Protective services workers not elsewhere classified,E
+6000,"Skilled agricultural, forestry and fishery workers",F
+6100,Market-oriented skilled agricultural workers,F
+6110,Market gardeners and crop growers,F
+6111,Field crop and vegetable growers,F
+6112,Tree and shrub crop growers,F
+6113,"Gardeners, horticultural and nursery growers",F
+6114,Mixed crop growers,F
+6120,Animal producers,F
+6121,Livestock and dairy producers,F
+6122,Poultry producers,F
+6123,Apiarists and sericulturists,F
+6129,Animal producers not elsewhere classified,F
+6130,Mixed crop and animal producers,F
+6200,"Market-oriented skilled forestry, fishery and hunting workers",F
+6210,Forestry and related workers,F
+6220,"Fishery workers, hunters and trappers",F
+6221,Aquaculture workers,F
+6222,Inland and coastal waters fishery workers,F
+6223,Deep-sea fishery workers,F
+6224,Hunters and trappers,F
+6300,"Subsistence farmers, fishers, hunters and gatherers",F
+6310,Subsistence crop farmers,F
+6320,Subsistence livestock farmers,F
+6330,Subsistence mixed crop and livestock farmers,F
+6340,"Subsistence fishers, hunters, trappers and gatherers",F
+7000,Craft and related trades workers,G
+7100,"Building and related trades workers, excluding electricians",G
+7110,Building frame and related trades workers,G
+7111,House builders,G
+7112,Bricklayers and related workers,G
+7113,"Stonemasons, stone cutters, splitters and carvers",G
+7114,"Concrete placers, concrete finishers and related workers",G
+7115,Carpenters and joiners,G
+7119,Building frame and related trades workers not elsewhere classified,G
+7120,Building finishers and related trades workers,G
+7121,Roofers,G
+7122,Floor layers and tile setters,G
+7123,Plasterers,G
+7124,Insulation workers,G
+7125,Glaziers,G
+7126,Plumbers and pipe fitters,G
+7127,Air conditioning and refrigeration mechanics,G
+7130,"Painters, building structure cleaners and related trades workers",G
+7131,Painters and related workers,G
+7132,Spray painters and varnishers,G
+7133,Building structure cleaners,G
+7200,"Metal, machinery and related trades workers",G
+7210,"Sheet and structural metal workers, moulders and welders, and related workers",G
+7211,Metal moulders and coremakers,G
+7212,Welders and flamecutters,G
+7213,Sheet-metal workers,G
+7214,Structural-metal preparers and erectors,G
+7215,Riggers and cable splicers,G
+7220,"Blacksmiths, toolmakers and related trades workers",G
+7221,"Blacksmiths, hammersmiths and forging press workers",G
+7222,Toolmakers and related workers,G
+7223,Metal working machine tool setters and operators,G
+7224,"Metal polishers, wheel grinders and tool sharpeners",G
+7230,Machinery mechanics and repairers,G
+7231,Motor vehicle mechanics and repairers,G
+7232,Aircraft engine mechanics and repairers,G
+7233,Agricultural and industrial machinery mechanics and repairers,G
+7234,Bicycle and related repairers,G
+7300,Handicraft and printing workers,G
+7310,Handicraft workers,G
+7311,Precision-instrument makers and repairers,G
+7312,Musical instrument makers and tuners,G
+7313,Jewellery and precious-metal workers,G
+7314,Potters and related workers,G
+7315,"Glass makers, cutters, grinders and finishers",G
+7316,"Sign writers, decorative painters, engravers and etchers",G
+7317,"Handicraft workers in wood, basketry and related materials",G
+7318,"Handicraft workers in textile, leather and related materials",G
+7319,Handicraft workers not elsewhere classified,G
+7320,Printing trades workers,G
+7321,Pre-press technicians,G
+7322,Printers,G
+7323,Print finishing and binding workers,G
+7400,Electrical and electronic trades workers,G
+7410,Electrical equipment installers and repairers,G
+7411,Building and related electricians,G
+7412,Electrical mechanics and fitters,G
+7413,Electrical line installers and repairers,G
+7420,Electronics and telecommunications installers and repairers,G
+7421,Electronics mechanics and servicers,G
+7422,Information and communications technology installers and servicers,G
+7500,"Food processing, wood working, garment and other craft and related trades workers",G
+7510,Food processing and related trades workers,G
+7511,"Butchers, fishmongers and related food preparers",G
+7512,"Bakers, pastry-cooks and confectionery makers",G
+7513,Dairy-products makers,G
+7514,"Fruit, vegetable and related preservers",G
+7515,Food and beverage tasters and graders,G
+7516,Tobacco preparers and tobacco products makers,G
+7520,"Wood treaters, cabinet-makers and related trades workers",G
+7521,Wood treaters,G
+7522,Cabinet-makers and related workers,G
+7523,Woodworking-machine tool setters and operators,G
+7530,Garment and related trades workers,G
+7531,"Tailors, dressmakers, furriers and hatters",G
+7532,Garment and related pattern-makers and cutters,G
+7533,"Sewing, embroidery and related workers",G
+7534,Upholsterers and related workers,G
+7535,"Pelt dressers, tanners and fellmongers",G
+7536,Shoemakers and related workers,G
+7540,Other craft and related workers,G
+7541,Underwater divers,G
+7542,Shotfirers and blasters,G
+7543,Product graders and testers (excluding foods and beverages),G
+7544,Fumigators and other pest and weed controllers,G
+7549,Craft and related workers not elsewhere classified,G
+8000,"Plant and machine operators, and assemblers",H
+8100,Stationary plant and machine operators,H
+8110,Mining and mineral processing plant operators,H
+8111,Miners and quarriers,H
+8112,Mineral and stone processing plant operators,H
+8113,Well drillers and borers and related workers,H
+8114,"Cement, stone and other mineral products machine operators",H
+8120,Metal processing and finishing plant operators,H
+8121,Metal processing plant operators,H
+8122,"Metal finishing, plating and coating machine operators",H
+8130,Chemical and photographic products plant and machine operators,H
+8131,Chemical products plant and machine operators,H
+8132,Photographic products machine operators,H
+8140,"Rubber, plastic and paper products machine operators",H
+8141,Rubber products machine operators,H
+8142,Plastic products machine operators,H
+8143,Paper products machine operators,H
+8150,"Textile, fur and leather products machine operators",H
+8151,"Fibre preparing, spinning and winding machine operators",H
+8152,Weaving and knitting machine operators,H
+8153,Sewing machine operators,H
+8154,"Bleaching, dyeing and fabric cleaning machine operators",H
+8155,Fur and leather preparing machine operators,H
+8156,Shoemaking and related machine operators,H
+8157,Laundry machine operators,H
+8159,"Textile, fur and leather products machine operators not elsewhere classified",H
+8160,Food and related products machine operators,H
+8170,Wood processing and papermaking plant operators,H
+8171,Pulp and papermaking plant operators,H
+8172,Wood processing plant operators,H
+8180,Other stationary plant and machine operators,H
+8181,Glass and ceramics plant operators,H
+8182,Steam engine and boiler operators,H
+8183,"Packing, bottling and labelling machine operators",H
+8189,Stationary plant and machine operators not elsewhere classified,H
+8200,Assemblers,H
+8210,Assemblers,H
+8211,Mechanical machinery assemblers,H
+8212,Electrical and electronic equipment assemblers,H
+8219,Assemblers not elsewhere classified,H
+8300,Drivers and mobile plant operators,H
+8310,Locomotive engine drivers and related workers,H
+8311,Locomotive engine drivers,H
+8312,"Railway brake, signal and switch operators",H
+8320,"Car, van and motorcycle drivers",H
+8321,Motorcycle drivers,H
+8322,"Car, taxi and van drivers",H
+8330,Heavy truck and bus drivers,H
+8331,Bus and tram drivers,H
+8332,Heavy truck and lorry drivers,H
+8340,Mobile plant operators,H
+8341,Mobile farm and forestry plant operators,H
+8342,Earthmoving and related plant operators,H
+8343,"Crane, hoist and related plant operators",H
+8344,Lifting truck operators,H
+8350,Ships deck crews and related workers,H
+9000,Elementary occupations,I
+9100,Cleaners and helpers,I
+9110,"Domestic, hotel and office cleaners and helpers",I
+9111,Domestic cleaners and helpers,I
+9112,"Cleaners and helpers in offices, hotels and other establishments",I
+9120,"Vehicle, window, laundry and other hand cleaning workers",I
+9121,Hand launderers and pressers,I
+9122,Vehicle cleaners,I
+9123,Window cleaners,I
+9129,Other cleaning workers,I
+9200,"Agricultural, forestry and fishery labourers",I
+9210,"Agricultural, forestry and fishery labourers",I
+9211,Crop farm labourers,I
+9212,Livestock farm labourers,I
+9213,Mixed crop and livestock farm labourers,I
+9214,Garden and horticultural labourers,I
+9215,Forestry labourers,I
+9216,Fishery and aquaculture labourers,I
+9300,"Labourers in mining, construction, manufacturing and transport",I
+9310,Mining and construction labourers,I
+9311,Mining and quarrying labourers,I
+9312,Civil engineering labourers,I
+9313,Building construction labourers,I
+9320,Manufacturing labourers,I
+9321,Hand packers,I
+9329,Manufacturing labourers not elsewhere classified,I
+9330,Transport and storage labourers,I
+9331,Hand and pedal vehicle drivers,I
+9332,Drivers of animal-drawn vehicles and machinery,I
+9333,Freight handlers,I
+9334,Shelf fillers,I
+9400,Food preparation assistants,I
+9410,Food preparation assistants,I
+9411,Fast food preparers,I
+9412,Kitchen helpers,I
+9500,Street and related sales and service workers,I
+9510,Street and related service workers,I
+9520,Street vendors (excluding food),I
+9600,Refuse workers and other elementary workers,I
+9610,Refuse workers,I
+9611,Garbage and recycling collectors,I
+9612,Refuse sorters,I
+9613,Sweepers and related labourers,I
+9620,Other elementary workers,I
+9621,"Messengers, package deliverers and luggage porters",I
+9622,Odd job persons,I
+9623,Meter readers and vending-machine collectors,I
+9624,Water and firewood collectors,I
+9629,Elementary workers not elsewhere classified,I
+9701,Housewife,J
+9702,Student,I
+9703,"Social beneficiary (unemployed, retired, sickness, etc.)",J
+9704,Do not know,M
+9705,"Vague(a good job, a quiet job, a well paid job, an office job)",D
+9997,Not applicable,M
+9998,Invalid,M
+9999,Missing,M
